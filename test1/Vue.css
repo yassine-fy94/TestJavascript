@@ -1,0 +1,52 @@
+#myTable {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#myTable td, #myTable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(155, 77, 77);
+}
+
+#myTable th {
+  border: 1px solid #ddd;
+  padding: 12px;
+  color: white;
+  font-weight: bold;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: rgb(37, 39, 37);
+  color: white;
+}
+
+.mybutton {
+    color: #ffffff;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.blue
+{
+    background-color: #287f9c;
+}
+
+.red
+{
+    background-color: #c0492b;
+}
+
+.green 
+{
+    background-color: #2e4e33;
+}
